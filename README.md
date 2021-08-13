@@ -1,6 +1,8 @@
 # Chatbot
 AI and pattern-based chatbot made with Tensorflow for personal portfolio site
 
+<img align="center" src="images/1.gif" alt="Chatbot" width="30%">
+
 ## Overview
 This chatbot was made to answer professional questions about myself, and to enhance user experience on my personal website. It is an intent-based chatbot built with a neural network for text classification using 50 dimensional GLOVE word embeddings, a 1-D convolutional layer, and LSTM layer. 
 
@@ -47,4 +49,4 @@ To train this chatbot for your own use, modify the intents.json file for your ow
 2. https://medium.com/@mrunal68/text-sentiments-classification-with-cnn-and-lstm-f92652bc29fd
 3. https://medium.com/@audreyctang/an-intuitive-comparison-of-nlp-models-neural-networks-rnn-cnn-lstm-fc11bf452923
 
-[product-screenshot1]: images/1.png
+[model-summary]: images/1.png
